@@ -80,6 +80,7 @@ i {
 
 body {
   background: var(--body-color);
+  overflow-x: hidden;
 }
 
 .container {
